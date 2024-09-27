@@ -65,7 +65,12 @@ main h2 {
 
 .profile-image{
     width: 450px;
+    border-radius: 40px;
 } 
+
+.profile-desc{
+    text-align: justify;
+}
 
 .responsive-image {
     max-width: 100%;
